@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Warhammer Reforged" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Warhammer Reforged" indexUrl="https://raw.githubusercontent.com/RepositoriosWHR/WHR-BS-V4/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="49dd-6404-b794-06e7" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="0"/>
