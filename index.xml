@@ -2,7 +2,7 @@
 <dataIndex battleScribeVersion="2.03" name="Warhammer Reforged V4" indexUrl="https://raw.githubusercontent.com/RepositoriosWHR/WHR-BS-V4/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged V4" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="Enanos - V4.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Enanos - V4.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="35f6-296f-1bb2-f4a1" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="0ecb-7365-2e98-70f6" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="La asamblea.catz" dataType="catalogue" dataId="5752-4a70-7461-a2aa" dataName="La Asamblea" dataBattleScribeVersion="2.03" dataRevision="1"/>
@@ -29,7 +29,7 @@
     <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="a132-ff2a-7f39-4dc4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Kurgan.catz" dataType="catalogue" dataId="619e-e9da-a8e8-4f6f" dataName="Kurgan" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="Reinos_Ogros.catz" dataType="catalogue" dataId="5ecb-ba09-1673-b6c9" dataName="Reinos_Ogros_Reforged" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Reinos_Ogros.catz" dataType="catalogue" dataId="5ecb-ba09-1673-b6c9" dataName="Reinos_Ogros_Reforged" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Elfos silvanos.catz" dataType="catalogue" dataId="924e-28e4-3972-c476" dataName="Elfos silvanos" dataBattleScribeVersion="2.03" dataRevision="4"/>
   </dataIndexEntries>
 </dataIndex>
