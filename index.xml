@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Warhammer Reforged V4" indexUrl="https://raw.githubusercontent.com/RepositoriosWHR/WHR-BS-V4/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged V4" dataBattleScribeVersion="2.03" dataRevision="10"/>
+    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged V4" dataBattleScribeVersion="2.03" dataRevision="14"/>
     <dataIndexEntry filePath="Enanos - V4.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="35f6-296f-1bb2-f4a1" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="0ecb-7365-2e98-70f6" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="4"/>
@@ -10,7 +10,7 @@
     <dataIndexEntry filePath="Huestes del Caos.catz" dataType="catalogue" dataId="b45a-4cb1-e2e8-abd7" dataName="Huestes del Caos" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d8b4-dbbc-5155-1269" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="9"/>
-    <dataIndexEntry filePath="MercenariosLib.catz" dataType="catalogue" dataId="4652-5447-e10a-8eb0" dataName="MercenariosLib" dataBattleScribeVersion="2.03" dataRevision="8"/>
+    <dataIndexEntry filePath="MercenariosLib.catz" dataType="catalogue" dataId="4652-5447-e10a-8eb0" dataName="MercenariosLib" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="Clan Dragon Sangriento.catz" dataType="catalogue" dataId="3d03-3105-00ed-9739" dataName="Dragón sangriento" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="Las tierras del sur.catz" dataType="catalogue" dataId="12e6-0f80-9cd0-64b7" dataName="Tierras del Sur" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Demonios del caos.catz" dataType="catalogue" dataId="ca36-41ae-f114-eeeb" dataName="Demonios del caos" dataBattleScribeVersion="2.03" dataRevision="6"/>
@@ -29,6 +29,7 @@
     <dataIndexEntry filePath="No muertos.catz" dataType="catalogue" dataId="79c7-cc45-fd7a-618d" dataName="No muertos" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Nehekhara.catz" dataType="catalogue" dataId="f0a0-99d0-d4e2-c1f3" dataName="Nehekhara" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Estalia.catz" dataType="catalogue" dataId="986c-053c-69d2-61fe" dataName="Estalia" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="Rasetra.catz" dataType="catalogue" dataId="b754-52bc-23f3-c7ca" dataName="Rasetra" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Bestias_del_Caos.catz" dataType="catalogue" dataId="51fc-eb9b-4cd8-7ac0" dataName="Bestias del Caos" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="a132-ff2a-7f39-4dc4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="Kurgan.catz" dataType="catalogue" dataId="619e-e9da-a8e8-4f6f" dataName="Kurgan" dataBattleScribeVersion="2.03" dataRevision="5"/>
