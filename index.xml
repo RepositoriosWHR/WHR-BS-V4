@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Warhammer Reforged V4" indexUrl="https://raw.githubusercontent.com/RepositoriosWHR/WHR-BS-V4/main/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged V4" dataBattleScribeVersion="2.03" dataRevision="14"/>
+    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged V4" dataBattleScribeVersion="2.03" dataRevision="15"/>
     <dataIndexEntry filePath="Enanos - V4.catz" dataType="catalogue" dataId="718a-95a2-5863-e407" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="35f6-296f-1bb2-f4a1" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="0ecb-7365-2e98-70f6" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="Khainitas.catz" dataType="catalogue" dataId="d08c-6808-8f98-0d64" dataName="Khainitas" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="La asamblea.catz" dataType="catalogue" dataId="5752-4a70-7461-a2aa" dataName="La Asamblea" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Enanos del caos - V4.catz" dataType="catalogue" dataId="469c-f68f-07c2-64cc" dataName="Enanos del caos V4" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Huestes del Caos.catz" dataType="catalogue" dataId="b45a-4cb1-e2e8-abd7" dataName="Huestes del Caos" dataBattleScribeVersion="2.03" dataRevision="3"/>
