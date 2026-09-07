@@ -6,14 +6,14 @@
     <dataIndexEntry filePath="Culto de matadores.catz" dataType="catalogue" dataId="18e6-a0ad-d123-70a6" dataName="Culto de matadores" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Amazonas.catz" dataType="catalogue" dataId="075f-8356-32a1-bdc4" dataName="Amazonas" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="Hobgoblins.catz" dataType="catalogue" dataId="51b8-d71c-a2c1-23c4" dataName="Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="8"/>
-    <dataIndexEntry filePath="Espadas del caos.catz" dataType="catalogue" dataId="36e9-44aa-523d-fdf6" dataName="Espadas del Caos" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="Espadas del caos.catz" dataType="catalogue" dataId="36e9-44aa-523d-fdf6" dataName="Espadas del Caos" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Khainitas.catz" dataType="catalogue" dataId="d08c-6808-8f98-0d64" dataName="Khainitas" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="Goblins nocturnos.catz" dataType="catalogue" dataId="fa9d-c3b9-2c09-c978" dataName="Goblins nocturnos" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="Goblins silvanos.catz" dataType="catalogue" dataId="2abc-21bd-490b-8e80" dataName="Goblins silvanos" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Fimir.catz" dataType="catalogue" dataId="fbd6-4fb9-50eb-2fcd" dataName="Fimir" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="35f6-296f-1bb2-f4a1" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="12"/>
-    <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="a132-ff2a-7f39-4dc4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="16"/>
-    <dataIndexEntry filePath="Nehekhara.catz" dataType="catalogue" dataId="f0a0-99d0-d4e2-c1f3" dataName="Nehekhara" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="a132-ff2a-7f39-4dc4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="17"/>
+    <dataIndexEntry filePath="Nehekhara.catz" dataType="catalogue" dataId="f0a0-99d0-d4e2-c1f3" dataName="Nehekhara" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Culto del placer.catz" dataType="catalogue" dataId="a5d3-0db8-9903-f390" dataName="Culto del placer" dataBattleScribeVersion="2.03" dataRevision="11"/>
     <dataIndexEntry filePath="Nehekhara. La tierra bendita.catz" dataType="catalogue" dataId="9cd5-1cbb-a09f-032e" dataName="Nehekhara. La tierra bendita" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="La asamblea.catz" dataType="catalogue" dataId="5752-4a70-7461-a2aa" dataName="La Asamblea" dataBattleScribeVersion="2.03" dataRevision="8"/>
@@ -29,8 +29,8 @@
     <dataIndexEntry filePath="Kurgan.catz" dataType="catalogue" dataId="619e-e9da-a8e8-4f6f" dataName="Kurgan" dataBattleScribeVersion="2.03" dataRevision="12"/>
     <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="503a-36a3-b407-46fb" dataName="Orcos y goblins " dataBattleScribeVersion="2.03" dataRevision="14"/>
     <dataIndexEntry filePath="Mariemburgo.catz" dataType="catalogue" dataId="0d0b-60b1-02c5-b914" dataName="Mariemburgo" dataBattleScribeVersion="2.03" dataRevision="4"/>
-    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="15"/>
-    <dataIndexEntry filePath="Clan Eshin.catz" dataType="catalogue" dataId="84e0-639b-248a-20ef" dataName="Clan Eshin" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="3216-304d-aab6-db09" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="16"/>
+    <dataIndexEntry filePath="Clan Eshin.catz" dataType="catalogue" dataId="84e0-639b-248a-20ef" dataName="Clan Eshin" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Las tierras del sur.catz" dataType="catalogue" dataId="12e6-0f80-9cd0-64b7" dataName="Tierras del Sur" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Huestes del Caos.catz" dataType="catalogue" dataId="b45a-4cb1-e2e8-abd7" dataName="Huestes del Caos" dataBattleScribeVersion="2.03" dataRevision="20"/>
     <dataIndexEntry filePath="MercenariosLib.catz" dataType="catalogue" dataId="4652-5447-e10a-8eb0" dataName="MercenariosLib" dataBattleScribeVersion="2.03" dataRevision="21"/>
